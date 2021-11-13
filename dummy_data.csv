@@ -1,0 +1,201 @@
+﻿CustID,CustomerSegment,AccountStatus
+A001,Existing Customers,Account Opened
+A002,Existing Customers,Remote Check Deposit
+A003,New to Bank,Account Funded
+A004,Existing Customers,Credit Card Issued
+A005,Existing Customers,Direct Deposit
+A006,New to Bank,Mobile App Downloaded
+A007,New to Bank,Account Opened
+A008,New to Bank,Remote Check Deposit
+A009,Existing Customers,Remote Check Deposit
+A010,New to Bank,Direct Deposit
+A011,Existing Customers,Update Contact Info
+A012,Existing Customers,Direct Deposit
+A013,New to Bank,Account Opened
+A014,New to Bank,Account Funded
+A015,New to Bank,Update Contact Info
+A016,New to Bank,Credit Card Issued
+A017,New to Bank,Update Contact Info
+A018,New to Bank,Account Opened
+A019,Existing Customers,Remote Check Deposit
+A020,New to Bank,Account Opened
+A021,Existing Customers,Direct Deposit
+A022,Existing Customers,Account Opened
+A023,Existing Customers,Credit Card Issued
+A024,Existing Customers,Account Opened
+A025,Existing Customers,Direct Deposit
+A026,Existing Customers,Account Opened
+A027,Existing Customers,Direct Deposit
+A028,New to Bank,Account Opened
+A029,Existing Customers,Credit Card Issued
+A030,New to Bank,Update Contact Info
+A031,New to Bank,Direct Deposit
+A032,Existing Customers,Account Funded
+A033,Existing Customers,Credit Card Issued
+A034,Existing Customers,Update Contact Info
+A035,New to Bank,Direct Deposit
+A036,New to Bank,Direct Deposit
+A037,Existing Customers,Credit Card Issued
+A038,New to Bank,Remote Check Deposit
+A039,New to Bank,Mobile App Downloaded
+A040,New to Bank,Account Funded
+A041,Existing Customers,Update Contact Info
+A042,Existing Customers,Direct Deposit
+A043,New to Bank,Mobile App Downloaded
+A044,Existing Customers,Update Contact Info
+A045,Existing Customers,Direct Deposit
+A046,Existing Customers,Credit Card Issued
+A047,New to Bank,Credit Card Issued
+A048,Existing Customers,Update Contact Info
+A049,New to Bank,Account Funded
+A050,New to Bank,Remote Check Deposit
+A051,New to Bank,Account Funded
+A052,New to Bank,Update Contact Info
+A053,New to Bank,Credit Card Issued
+A054,Existing Customers,Direct Deposit
+A055,New to Bank,Account Funded
+A056,New to Bank,Update Contact Info
+A057,New to Bank,Direct Deposit
+A058,Existing Customers,Update Contact Info
+A059,New to Bank,Remote Check Deposit
+A060,New to Bank,Account Funded
+A061,Existing Customers,Mobile App Downloaded
+A062,New to Bank,Update Contact Info
+A063,New to Bank,Account Funded
+A064,Existing Customers,Account Opened
+A065,Existing Customers,Account Opened
+A066,Existing Customers,Account Funded
+A067,Existing Customers,Direct Deposit
+A068,Existing Customers,Remote Check Deposit
+A069,Existing Customers,Account Funded
+A070,New to Bank,Direct Deposit
+A071,Existing Customers,Remote Check Deposit
+A072,New to Bank,Direct Deposit
+A073,Existing Customers,Remote Check Deposit
+A074,Existing Customers,Credit Card Issued
+A075,Existing Customers,Credit Card Issued
+A076,Existing Customers,Account Opened
+A077,Existing Customers,Update Contact Info
+A078,New to Bank,Account Opened
+A079,Existing Customers,Mobile App Downloaded
+A080,Existing Customers,Account Funded
+A081,Existing Customers,Credit Card Issued
+A082,Existing Customers,Update Contact Info
+A083,New to Bank,Credit Card Issued
+A084,New to Bank,Direct Deposit
+A085,New to Bank,Credit Card Issued
+A086,Existing Customers,Update Contact Info
+A087,Existing Customers,Account Opened
+A088,Existing Customers,Direct Deposit
+A089,Existing Customers,Mobile App Downloaded
+A090,Existing Customers,Remote Check Deposit
+A091,Existing Customers,Credit Card Issued
+A092,New to Bank,Account Opened
+A093,New to Bank,Remote Check Deposit
+A094,New to Bank,Update Contact Info
+A095,Existing Customers,Account Funded
+A096,Existing Customers,Account Opened
+A097,New to Bank,Account Funded
+A098,New to Bank,Credit Card Issued
+A099,Existing Customers,Account Funded
+A100,Existing Customers,Remote Check Deposit
+A101,New to Bank,Update Contact Info
+A102,Existing Customers,Account Funded
+A103,Existing Customers,Direct Deposit
+A104,New to Bank,Mobile App Downloaded
+A105,Existing Customers,Account Funded
+A106,New to Bank,Account Funded
+A107,Existing Customers,Mobile App Downloaded
+A108,New to Bank,Credit Card Issued
+A109,New to Bank,Credit Card Issued
+A110,New to Bank,Remote Check Deposit
+A111,New to Bank,Remote Check Deposit
+A112,New to Bank,Account Funded
+A113,Existing Customers,Update Contact Info
+A114,New to Bank,Account Funded
+A115,New to Bank,Account Opened
+A116,New to Bank,Mobile App Downloaded
+A117,Existing Customers,Mobile App Downloaded
+A118,Existing Customers,Update Contact Info
+A119,Existing Customers,Update Contact Info
+A120,New to Bank,Account Opened
+A121,Existing Customers,Account Opened
+A122,Existing Customers,Account Opened
+A123,New to Bank,Credit Card Issued
+A124,New to Bank,Direct Deposit
+A125,New to Bank,Direct Deposit
+A126,New to Bank,Mobile App Downloaded
+A127,Existing Customers,Account Opened
+A128,New to Bank,Account Opened
+A129,Existing Customers,Direct Deposit
+A130,Existing Customers,Remote Check Deposit
+A131,Existing Customers,Credit Card Issued
+A132,New to Bank,Mobile App Downloaded
+A133,Existing Customers,Account Opened
+A134,Existing Customers,Direct Deposit
+A135,New to Bank,Direct Deposit
+A136,Existing Customers,Update Contact Info
+A137,Existing Customers,Credit Card Issued
+A138,Existing Customers,Remote Check Deposit
+A139,New to Bank,Mobile App Downloaded
+A140,Existing Customers,Remote Check Deposit
+A141,New to Bank,Account Opened
+A142,Existing Customers,Update Contact Info
+A143,Existing Customers,Credit Card Issued
+A144,New to Bank,Credit Card Issued
+A145,New to Bank,Account Opened
+A146,New to Bank,Account Funded
+A147,New to Bank,Account Funded
+A148,New to Bank,Mobile App Downloaded
+A149,Existing Customers,Remote Check Deposit
+A150,Existing Customers,Direct Deposit
+A151,Existing Customers,Account Funded
+A152,New to Bank,Credit Card Issued
+A153,New to Bank,Account Funded
+A154,New to Bank,Account Opened
+A155,New to Bank,Account Opened
+A156,Existing Customers,Account Funded
+A157,New to Bank,Remote Check Deposit
+A158,New to Bank,Direct Deposit
+A159,New to Bank,Account Funded
+A160,New to Bank,Direct Deposit
+A161,Existing Customers,Update Contact Info
+A162,New to Bank,Account Funded
+A163,New to Bank,Direct Deposit
+A164,New to Bank,Update Contact Info
+A165,Existing Customers,Update Contact Info
+A166,Existing Customers,Remote Check Deposit
+A167,New to Bank,Account Opened
+A168,Existing Customers,Account Opened
+A169,Existing Customers,Remote Check Deposit
+A170,New to Bank,Account Opened
+A171,Existing Customers,Credit Card Issued
+A172,New to Bank,Remote Check Deposit
+A173,Existing Customers,Credit Card Issued
+A174,Existing Customers,Update Contact Info
+A175,New to Bank,Remote Check Deposit
+A176,Existing Customers,Account Opened
+A177,Existing Customers,Account Funded
+A178,Existing Customers,Credit Card Issued
+A179,New to Bank,Account Funded
+A180,New to Bank,Account Funded
+A181,Existing Customers,Credit Card Issued
+A182,Existing Customers,Remote Check Deposit
+A183,Existing Customers,Update Contact Info
+A184,Existing Customers,Remote Check Deposit
+A185,New to Bank,Account Opened
+A186,New to Bank,Update Contact Info
+A187,Existing Customers,Mobile App Downloaded
+A188,Existing Customers,Update Contact Info
+A189,New to Bank,Credit Card Issued
+A190,Existing Customers,Remote Check Deposit
+A191,New to Bank,Mobile App Downloaded
+A192,Existing Customers,Credit Card Issued
+A193,New to Bank,Update Contact Info
+A194,Existing Customers,Remote Check Deposit
+A195,Existing Customers,Update Contact Info
+A196,Existing Customers,Remote Check Deposit
+A197,Existing Customers,Mobile App Downloaded
+A198,New to Bank,Update Contact Info
+A199,New to Bank,Account Opened
+A200,New to Bank,Direct Deposit
