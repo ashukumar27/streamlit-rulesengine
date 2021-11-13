@@ -14,7 +14,7 @@ st.write("""
 df = pd.read_csv('dummy_data.csv')
 
 
-with st.beta_expander('Click for Dummy Data Snapshot'):
+with st.expander('Click for Dummy Data Snapshot'):
     # Add user input widgets to the side bar
     st.write(df.head())
 
